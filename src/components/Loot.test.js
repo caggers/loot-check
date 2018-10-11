@@ -30,5 +30,6 @@ describe('Loot', () => {
     it('displays the correct bitcoin val', () => {
       expect(loot.find('span.bitcoin-amount').text()).toEqual('0.01');
     });
+    
   });
 });
