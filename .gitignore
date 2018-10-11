@@ -22,3 +22,5 @@ yarn-error.log*
 
 .prettierrc
 .vscode
+
+__snapshots__
